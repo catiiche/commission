@@ -1,2 +1,2 @@
 # commission
-# Программа для расчета комиссии в еЛаме для пополнения Facebook.Ads
+# program for counting the commission for transferring funds to Facebook.Ads in eLama service
